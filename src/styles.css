@@ -1,0 +1,12 @@
+body{
+    background-color: hsl(218, 23%, 16%)
+}
+
+#box{
+    justify-content: center;
+    border: 2px solid gray;
+}
+.button{
+    padding: 30px;
+    margin: 20px;
+}
